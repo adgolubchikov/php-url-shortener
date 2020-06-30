@@ -1,0 +1,81 @@
+#exitbutton
+{
+text-align: right;
+display: inline;
+}
+
+#url
+{
+text-align: right;
+margin-top: 20px;
+display: inline;
+}
+
+#link
+{
+width: 70%;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 15px;
+}
+
+body
+{
+text-align: center;
+}
+
+table
+{
+max-width: 85%;
+text-align: left!important;
+white-space: normal!important;
+}
+
+td, th
+{
+text-align: left!important;
+white-space: normal!important;
+}
+
+#deletebutton
+{
+
+min-width: 20px;
+height: 28px;
+padding: 0 10px;
+}
+
+#deletebutton:hover
+{
+cursor: pointer;
+}
+
+#deletelink
+{
+display: none;
+}
+
+#justaddedlink
+{
+
+}
+
+#justaddedshortlink
+{
+font-weight: 700;
+}
+
+#justaddedbutton
+{
+
+}
+
+#copied
+{
+font-style: italic;
+}
+
+#pages
+{
+text-align: left!important;
+}
